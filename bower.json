@@ -1,0 +1,27 @@
+{
+  "name": "conFusion",
+  "description": "Website for an awesome resturant",
+  "main": "index.html",
+  "keywords": [
+    "conFusion",
+    "Fusion",
+    "Resturant"
+  ],
+  "authors": [
+    "de_Broglie"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "font-awesome": "^4.6.3",
+    "bootstrap": "^3.3.6"
+  }
+}
